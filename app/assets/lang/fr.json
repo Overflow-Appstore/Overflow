@@ -1,0 +1,53 @@
+{
+  "tabs": {
+    "home": "Accueil",
+    "discover": "Découvrir",
+    "create": "Créer",
+    "messages": "Messages",
+    "profile": "Profil"
+  },
+  "home": {
+    "title": "Accueil",
+    "dailyHighlight": "Coup de projecteur",
+    "highlightAccessLabel": "Coup de projecteur pour {{name}}",
+    "empty": "Les histoires arriveront bientôt."
+  },
+  "discover": {
+    "title": "Découvrir",
+    "filters": "Filtrer par région, cause, organisation ou langue",
+    "mapAccessLabel": "Carte des acteurs humanitaires",
+    "resultAccessLabel": "Voir le profil de {{name}}"
+  },
+  "create": {
+    "title": "Partager une mise à jour",
+    "pickMedia": "Choisir une photo ou vidéo",
+    "mediaSelected": "Média sélectionné",
+    "captionPlaceholder": "Décrivez ce qui se passe",
+    "captionAccessLabel": "Légende",
+    "locationPlaceholder": "Où cela se passe-t-il ?",
+    "locationAccessLabel": "Lieu",
+    "tagsPlaceholder": "Ajouter des tags de projet",
+    "tagsAccessLabel": "Tags",
+    "submit": "Publier",
+    "submitHint": "Télécharge votre contenu et le partage avec vos abonnés"
+  },
+  "messages": {
+    "title": "Messages",
+    "safetyNotice": "Conseil sécurité : restez sur Overflow jusqu'à ce que vous fassiez confiance à l'autre personne.",
+    "empty": "Pas encore de conversations.",
+    "threadListAccessLabel": "Liste des conversations"
+  },
+  "profile": {
+    "title": "Profil",
+    "loading": "Chargement du profil",
+    "noBio": "Ajoutez une courte biographie pour partager votre mission.",
+    "verified": "Vérifié",
+    "projects": "Projets",
+    "projectsPlaceholder": "Les projets partagés apparaîtront ici.",
+    "links": "Liens",
+    "linksPlaceholder": "Ajoutez des liens de dons et de site web.",
+    "editProfile": "Modifier le profil",
+    "settings": "Paramètres",
+    "signOut": "Déconnexion"
+  }
+}

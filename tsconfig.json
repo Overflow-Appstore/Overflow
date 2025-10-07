@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "lib": ["DOM", "ES2020"],
+    "allowJs": false,
+    "jsx": "react-native",
+    "noEmit": true,
+    "isolatedModules": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/components/*": ["app/components/*"],
+      "@/screens/*": ["app/screens/*"],
+      "@/hooks/*": ["app/hooks/*"],
+      "@/navigation/*": ["app/navigation/*"],
+      "@/theme/*": ["app/theme/*"],
+      "@/types/*": ["app/types/*"],
+      "@/services/*": ["app/services/*"],
+      "@/store/*": ["app/store/*"],
+      "@/utils/*": ["app/utils/*"],
+      "@/constants/*": ["app/constants/*"],
+      "@/data/*": ["app/data/*"],
+      "@/assets/*": ["app/assets/*"]
+    }
+  },
+  "include": ["app", "__tests__", "scripts", "backend/functions/src", "firebase", "docs"],
+  "exclude": ["node_modules"]
+}

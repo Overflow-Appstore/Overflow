@@ -1,0 +1,53 @@
+{
+  "tabs": {
+    "home": "Inicio",
+    "discover": "Descubrir",
+    "create": "Crear",
+    "messages": "Mensajes",
+    "profile": "Perfil"
+  },
+  "home": {
+    "title": "Inicio",
+    "dailyHighlight": "Destacado del día",
+    "highlightAccessLabel": "Destacado diario de {{name}}",
+    "empty": "Las historias aparecerán pronto."
+  },
+  "discover": {
+    "title": "Descubrir",
+    "filters": "Filtrar por región, causa, organización o idioma",
+    "mapAccessLabel": "Mapa de personas humanitarias",
+    "resultAccessLabel": "Ver perfil de {{name}}"
+  },
+  "create": {
+    "title": "Comparte una actualización",
+    "pickMedia": "Seleccionar foto o video",
+    "mediaSelected": "Medio seleccionado",
+    "captionPlaceholder": "Cuenta lo que está pasando",
+    "captionAccessLabel": "Descripción",
+    "locationPlaceholder": "¿Dónde ocurre?",
+    "locationAccessLabel": "Ubicación",
+    "tagsPlaceholder": "Agregar etiquetas de proyecto",
+    "tagsAccessLabel": "Etiquetas",
+    "submit": "Publicar",
+    "submitHint": "Carga tu contenido y lo comparte con seguidores"
+  },
+  "messages": {
+    "title": "Mensajes",
+    "safetyNotice": "Consejo de seguridad: Mantén la conversación en Overflow hasta confiar en la otra persona.",
+    "empty": "Aún no hay conversaciones.",
+    "threadListAccessLabel": "Lista de conversaciones"
+  },
+  "profile": {
+    "title": "Perfil",
+    "loading": "Cargando perfil",
+    "noBio": "Agrega una breve biografía para compartir tu misión.",
+    "verified": "Verificado",
+    "projects": "Proyectos",
+    "projectsPlaceholder": "Los proyectos que compartas aparecerán aquí.",
+    "links": "Enlaces",
+    "linksPlaceholder": "Agrega enlaces de donación y sitio web.",
+    "editProfile": "Editar perfil",
+    "settings": "Configuración",
+    "signOut": "Cerrar sesión"
+  }
+}
