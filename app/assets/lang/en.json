@@ -1,0 +1,53 @@
+{
+  "tabs": {
+    "home": "Home",
+    "discover": "Discover",
+    "create": "Create",
+    "messages": "Messages",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Home",
+    "dailyHighlight": "Daily Highlight",
+    "highlightAccessLabel": "Daily highlight for {{name}}",
+    "empty": "Stories will appear here soon."
+  },
+  "discover": {
+    "title": "Discover",
+    "filters": "Filter by region, cause, organization, or language",
+    "mapAccessLabel": "Map view of humanitarian workers",
+    "resultAccessLabel": "View profile for {{name}}"
+  },
+  "create": {
+    "title": "Share an Update",
+    "pickMedia": "Select photo or video",
+    "mediaSelected": "Media selected",
+    "captionPlaceholder": "Share what is happening",
+    "captionAccessLabel": "Caption",
+    "locationPlaceholder": "Where is this taking place?",
+    "locationAccessLabel": "Location",
+    "tagsPlaceholder": "Add project tags",
+    "tagsAccessLabel": "Tags",
+    "submit": "Post update",
+    "submitHint": "Uploads your media and shares with followers"
+  },
+  "messages": {
+    "title": "Messages",
+    "safetyNotice": "Safety tip: Keep conversations on Overflow until you trust the other person.",
+    "empty": "No conversations yet.",
+    "threadListAccessLabel": "Message threads list"
+  },
+  "profile": {
+    "title": "Profile",
+    "loading": "Loading profile",
+    "noBio": "Add a short bio to share your mission.",
+    "verified": "Verified",
+    "projects": "Projects",
+    "projectsPlaceholder": "Projects you share will appear here.",
+    "links": "Links",
+    "linksPlaceholder": "Add donation and website links.",
+    "editProfile": "Edit profile",
+    "settings": "Settings",
+    "signOut": "Sign out"
+  }
+}
